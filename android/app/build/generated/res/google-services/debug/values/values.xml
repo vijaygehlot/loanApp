@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">184232616967-jd5nsobg8bnolcgvvoajrc954pq7mvhe.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">184232616967</string>
+    <string name="google_api_key" translatable="false">AIzaSyDygAFk-Up7XkDvg08c_F1VuPAGni1l_-I</string>
+    <string name="google_app_id" translatable="false">1:184232616967:android:f0b3399b8ef010c16336a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDygAFk-Up7XkDvg08c_F1VuPAGni1l_-I</string>
+    <string name="google_storage_bucket" translatable="false">loanapp-d14a6.appspot.com</string>
+    <string name="project_id" translatable="false">loanapp-d14a6</string>
+</resources>

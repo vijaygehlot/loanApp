@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LoanApp.iml" filepath="$PROJECT_DIR$/.idea/modules/LoanApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoanApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoanApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/556577464/LoanApp.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/556577464/LoanApp.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1032050274/LoanApp.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/1032050274/LoanApp.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1448094842/LoanApp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1448094842/LoanApp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1606775459/LoanApp.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1606775459/LoanApp.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2049388515/LoanApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/2049388515/LoanApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1954328178/LoanApp.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1954328178/LoanApp.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1276257396/LoanApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1276257396/LoanApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1771043492/LoanApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1771043492/LoanApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/733522643/LoanApp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/733522643/LoanApp.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1679537290/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1679537290/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
